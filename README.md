@@ -22,7 +22,7 @@ Run Nextflow.
 
 Build
 -----
-
+    git clone git@github.com:dritoshi/nextflow.git
     docker build -t dritoshi/nextflow .
 
 Copyright
